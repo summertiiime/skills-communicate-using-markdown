@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "Approach your cat with caution";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
